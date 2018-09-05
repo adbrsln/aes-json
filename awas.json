@@ -1,0 +1,594 @@
+{
+    "AES/AWaS Location": [
+     
+       {
+        "key" : 1, 
+        "details" : {
+            "location" : 256.1,
+            "streetName" : "Lebuhraya Pantai Timur 2",
+            "to" : "Kuala Terengganu",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }
+       },
+     
+       {
+        "key" : 2, 
+        "details" : {
+            "location" : 288.6,
+            "streetName" : "Lebuhraya Pantai Timur 2",
+            "to": "Kuala Lumpur",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }
+       },
+       {
+        "key" : 3, 
+        "details" : {
+            "location" : 151.4,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }
+       },
+       {
+        "key" : 4, 
+        "details" : {
+            "location" : 146.8,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 5, 
+        "details" : {
+            "location" : 18,
+            "streetName" : "Lebuhraya Guthrie",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       }
+       ,
+       {
+        "key" : 6, 
+        "details" : {
+            "location" : 18,
+            "streetName" : "Lebuhraya Guthrie",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 7, 
+        "details" : {
+            "location" : 28.4,
+            "streetName" : "Lebuhraya ELITE",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 8, 
+        "details" : {
+            "location" : 17,
+            "streetName" : "Lebuhraya ELITE",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 9, 
+        "details" : {
+            "location" : 1,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 10, 
+        "details" : {
+            "location" : 1,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 11, 
+        "details" : {
+            "location" : 21,
+            "streetName" : "Lebuhraya LEKAS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 12, 
+        "details" : {
+            "location" : 21,
+            "streetName" : "Lebuhraya LEKAS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 13, 
+        "details" : {
+            "location" : 184.2,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 14, 
+        "details" : {
+            "location" : 185,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 15, 
+        "details" : {
+            "location" : 214.4,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 16, 
+        "details" : {
+            "location" : 214.4,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 17, 
+        "details" : {
+            "location" : 97.2,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 18, 
+        "details" : {
+            "location" : 96.3,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 19, 
+        "details" : {
+            "location" : 299.9,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 20, 
+        "details" : {
+            "location" : 375.9,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 21, 
+        "details" : {
+            "location" : 204.6,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 22, 
+        "details" : {
+            "location" : 166,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 23, 
+        "details" : {
+            "location" : 174,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 24, 
+        "details" : {
+            "location" : 328.8,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Selatan",
+            "state" : "",
+            "limit" : 110,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 25, 
+        "details" : {
+            "location" : 6.6,
+            "streetName" : "Lebuhraya SKVE",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 80,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 26, 
+        "details" : {
+            "location" : 301.6,
+            "streetName" : "Lebuhraya PLUS",
+            "to" : "Utara",
+            "state" : "",
+            "limit" : 90,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 27, 
+        "details" : {
+            "location" : 1.6,
+            "streetName" : "Lebuh Sentosa",
+            "to" : "",
+            "state" : "WP Putrajaya",
+            "limit" : 70,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 28, 
+        "details" : {
+            "location" : 17,
+            "streetName" : "Jalan Gua Musang  Kuala Krai",
+            "to" : "",
+            "state" : "",
+            "limit" : 90,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 29, 
+        "details" : {
+            "location" : 85.5,
+            "streetName" : "Jalan Ipoh  Kuala Lumpur (Sungkai)",
+            "to" : "",
+            "state" : "",
+            "limit" : 90,
+            "type" : "Speed Limit",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 30, 
+        "details" : {
+            "location" : 0,
+            "streetName" : "Jalan Klang Lama",
+            "to" : "",
+            "state" : "Kuala Lumpur",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 31, 
+        "details" : {
+            "location" : 0,
+            "streetName" : "Jalan Ipoh",
+            "to" : "",
+            "state" : "Kuala Lumpur",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 32, 
+        "details" : {
+            "location" : 26,
+            "streetName" : "Jalan Ipoh  Kuala Kangsar(Sungai Siput)",
+            "to" : "",
+            "state" : "",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 33, 
+        "details" : {
+            "location" : 0,
+            "streetName" : "Jalan Pasir Putih",
+            "to" : "",
+            "state" : "Ipoh",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 34, 
+        "details" : {
+            "location" : 1,
+            "streetName" : "Jalan Gurun  Sik",
+            "to" : "Gurun",
+            "state" : "Kedah",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 35, 
+        "details" : {
+            "location" : 1,
+            "streetName" : "Jalan Gurun  Sik",
+            "to" : "Sik",
+            "state" : "Kedah",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 36, 
+        "details" : {
+            "location" : 36,
+            "streetName" : "Jalan Alor Setar  Butterworth",
+            "to" : "",
+            "state" : "",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 37, 
+        "details" : {
+            "location" : 54,
+            "streetName" : "Jalan Alor Setar  Butterworth",
+            "to" : "",
+            "state" : "",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 38, 
+        "details" : {
+            "location" : 4,
+            "streetName" : "Jalan Setiawan  Lumut",
+            "to" : "Lumut",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 39, 
+        "details" : {
+            "location" : 4,
+            "streetName" : "Jalan Setiawan  Lumut",
+            "to" : "Setiawan",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 40, 
+        "details" : {
+            "location" : 11,
+            "streetName" : "Jalan Setiawan  Ipoh",
+            "to" : "",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 41, 
+        "details" : {
+            "location" : 116,
+            "streetName" : "Ipoh  Kuala Lumpur",
+            "to" : "Kuala Lumpur",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 42, 
+        "details" : {
+            "location" : 116,
+            "streetName" : "Ipoh  Kuala Lumpur",
+            "to" : "Ipoh",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 43, 
+        "details" : {
+            "location" : 14,
+            "streetName" : "Jalan Ipoh  Pusing",
+            "to" : "Setiawan",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 44, 
+        "details" : {
+            "location" : 38,
+            "streetName" : "Jalan Ipoh  Kampar",
+            "to" : "Ipoh",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       },
+       {
+        "key" : 45, 
+        "details" : {
+            "location" : 8,
+            "streetName" : "Jalan Teluk Intan  Hutan Melintang",
+            "to" : "",
+            "state" : "Perak",
+            "limit" : 0,
+            "type" : "Traffic Light",
+            "lat" : 0,
+            "long" : 0
+        }   
+       }
+       
+
+    ]
+ }
